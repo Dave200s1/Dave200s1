@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋  Hi, I am a Student of applied data science with a focus on machine learning, data visualisation and IoT applications. Chess player and thriller reader in his spare time.
+👋  Data science grad student specialising in ML, data visualisation and IoT applications. Chess enthusiast  and thriller reader in my spare time.
 
 
 ## 🌐 Socials:
