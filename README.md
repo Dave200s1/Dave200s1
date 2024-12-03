@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://raspberrypi.stackexchange.com/users/153972/friendlyninja)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21520404/friendlyninja?tab=topactivity)
 
 # 💻 Tech Stack:
 Python, C/C++
