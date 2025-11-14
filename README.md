@@ -1,6 +1,6 @@
 ### Moin ! 🙋‍♂️
 
-My name is David, a  embedded & web developer based in Germany.
+My name is David, a  embedded/web developer based in Germany.
 
 A builder at heart, turning imagination into interactive reality.
 
