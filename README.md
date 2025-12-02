@@ -6,7 +6,7 @@ A builder at heart, turning imagination into interactive reality.
 
 If I come up with something cool, chances are I will build it and ship it.
 
-My main tech stack is c\c++, python,  and javascript. My favourite tools are VS-Code, Cmake and Postman.
+My main tech stack is c\c++, python, and React/JavaScript. My favourite tools are VS-Code, Cmake and Postman.
 
 I have build over 80 public repos, but if I count the privet ones .. Its probably, more than 100 at this point.
 
