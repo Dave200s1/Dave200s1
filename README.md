@@ -13,7 +13,7 @@ If I come up with something cool, chances are I will build it and ship it.
 #### Frontend
 * React/JavaScript
 
-My favourite tools are VS-Code, Pycharm and Postman.
+My favourite tools are VS-Code, Pycharm, Co-Pilot and Postman.
 
 I have build over 80 public repos, but if I count the privet ones .. Its probably, more than 100 at this point.
 
