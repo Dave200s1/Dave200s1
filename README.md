@@ -1,12 +1,19 @@
 ### Moin ! 🙋‍♂️
 
-My name is David, a web developer based in Germany.
+My name is David, a web developer based in Germany 🇩🇪.
 
 A builder at heart, turning imagination into interactive reality.
 
 If I come up with something cool, chances are I will build it and ship it.
 
-My main tech stack is Python/FastAPI, React/JavaScript and Node.js/Express.js. My favourite tools are VS-Code, Pycharm and Postman.
+### My main tech stack is 
+#### Backend
+* Python/FastAPI
+* Node.js/Express.js.
+#### Frontend
+* React/JavaScript
+
+My favourite tools are VS-Code, Pycharm and Postman.
 
 I have build over 80 public repos, but if I count the privet ones .. Its probably, more than 100 at this point.
 
