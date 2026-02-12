@@ -4,7 +4,7 @@ My name is David, I am a web developer based in Germany 🇩🇪.
 
 A builder at heart, turning imagination into interactive reality.
 
-If I come up with something cool, chances are I will build it and ship it.
+If something sparks my interest, I’ll build it and share it.
 
 ### My main tech stack is 
 #### Backend
