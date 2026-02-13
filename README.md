@@ -8,11 +8,11 @@ If something sparks my interest, I’ll build it and share it.
 
 ### My main tech stack is 
 #### Backend
-* Python/FastAPI
-* Node.js/Express.js.
-* Java/SpringBoot
+* C# / ASP.NET
+* Node.js / Express.js.
+* Java / SpringBoot
 #### Frontend
-* React/JavaScript
+* React / JavaScript
 
 My favourite tools are VS-Code, InteliJ, Co-Pilot and Postman.
 
