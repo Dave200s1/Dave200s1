@@ -14,9 +14,9 @@ If something sparks my interest, I’ll build it and share it.
 #### Frontend
 * React / JavaScript
 
-My favourite tools are VS-Code, InteliJ, Co-Pilot and Postman.
+My favourite tools are VS-Code, Co-Pilot and Insomnia.
 
-I have build over 80 public repos, but if I count the privet ones .. Its probably, more than 100 at this point.
+Built 100+ projects, with 20 public here. The rest were experiments and iterations that shaped my current technical focus.
 
 I have a lot of pinned projects, but my favourite one is currently the [Judo-Dojo](https://github.com/Dave200s1/Judo-Dojo).
 
