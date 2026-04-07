@@ -1,4 +1,4 @@
-### Moin ! 🙋‍♂️
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=false&vCenter=true&width=600&lines=Moin+👋,+I+am+David;Welcome+to+my+GitHub+profile!;Feel+free+to+explore+my+projects;Thank+you+for+your+time+🙏)
 
 My name is David, I am a web developer based in Germany 🇩🇪.
 
