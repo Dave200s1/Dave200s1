@@ -29,7 +29,7 @@ Whilst I work across the full stack, my main focus is backend development — de
 #### Frontend
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-My favourite tools are VS-Code, Co-Pilot and Insomnia.
+My favourite tools are VS-Code, Co-Pilot and Bruno.
 
 Built 100+ projects, with 20 public here. The rest were experiments and iterations that shaped my current technical focus.
 
