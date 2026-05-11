@@ -37,5 +37,5 @@ I have a lot of pinned projects, but my favourite one is currently the [KlinikAP
 
 #### Fun Facts:
 * I am a college student (major: media informatics)
-* Attack on Titan is my favourite anime
+* Attack on Titan is my favourite anime.
 * Hobbies: chess, playing guitar  and building things 
