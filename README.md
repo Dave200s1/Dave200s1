@@ -31,7 +31,7 @@ Whilst I work across the full stack, my main focus is backend development — de
 
 My favourite tools are VS-Code, Co-Pilot, Yarn and Bruno.
 
-Built 100+ projects, with 20 public here. The rest were experiments and iterations that shaped my current technical focus.
+Built 70+ projects, with 20 public here. The rest were experiments and iterations that shaped my current technical focus.
 
 I have a lot of pinned projects, but my favourite one is currently the [KlinikAPI](https://github.com/Dave200s1/Klinik_API).
 
