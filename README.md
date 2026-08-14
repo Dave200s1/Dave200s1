@@ -2,7 +2,7 @@
 
 My name is David, I am a web developer based in Germany 🇩🇪.
 
-A builder at heart, turning imagination into interactive reality.
+With a builder's mindset, I bring ideas to life through interactive design.
 
 If something sparks my interest, I’ll build it and share it.
 
